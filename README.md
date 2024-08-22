@@ -133,7 +133,8 @@ HLT
 
 ## Output  
 
-![Screenshot 2024-08-22 122637](https://github.com/user-attachments/assets/488b9715-2b70-4a25-adf6-7f135c1bf0d5)
+
+![Screenshot 2024-08-22 124833](https://github.com/user-attachments/assets/934a30fe-eb5c-4804-9d9e-9433e165b7c4)
 
 
 ## Result :
